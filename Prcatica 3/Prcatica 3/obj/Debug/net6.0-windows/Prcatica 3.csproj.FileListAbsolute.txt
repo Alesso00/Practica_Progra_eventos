@@ -1,0 +1,18 @@
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\bin\Debug\net6.0-windows\Prcatica 3.exe
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\bin\Debug\net6.0-windows\Prcatica 3.deps.json
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\bin\Debug\net6.0-windows\Prcatica 3.runtimeconfig.json
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\bin\Debug\net6.0-windows\Prcatica 3.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\bin\Debug\net6.0-windows\Prcatica 3.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.csproj.AssemblyReference.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica_3.Form1.resources
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.csproj.GenerateResource.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.AssemblyInfoInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.AssemblyInfo.cs
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.csproj.CoreCompileInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\refint\Prcatica 3.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica 3.genruntimeconfig.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\ref\Prcatica 3.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 3\Prcatica 3\Prcatica 3\obj\Debug\net6.0-windows\Prcatica_3.Form2.resources
