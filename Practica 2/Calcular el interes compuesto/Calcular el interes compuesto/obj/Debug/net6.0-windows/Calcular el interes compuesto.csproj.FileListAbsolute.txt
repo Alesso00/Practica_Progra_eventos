@@ -1,0 +1,17 @@
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\bin\Debug\net6.0-windows\Calcular el interes compuesto.exe
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\bin\Debug\net6.0-windows\Calcular el interes compuesto.deps.json
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\bin\Debug\net6.0-windows\Calcular el interes compuesto.runtimeconfig.json
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\bin\Debug\net6.0-windows\Calcular el interes compuesto.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\bin\Debug\net6.0-windows\Calcular el interes compuesto.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.csproj.AssemblyReference.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular_el_interes_compuesto.Form1.resources
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.csproj.GenerateResource.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.AssemblyInfoInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.AssemblyInfo.cs
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.csproj.CoreCompileInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\refint\Calcular el interes compuesto.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\Calcular el interes compuesto.genruntimeconfig.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 2\Calcular el interes compuesto\Calcular el interes compuesto\obj\Debug\net6.0-windows\ref\Calcular el interes compuesto.dll
