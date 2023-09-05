@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practica 4/1.0.0": {
+        "dependencies": {
+          "ClassLibraryTiempos": "1.0.0"
+        },
+        "runtime": {
+          "Practica 4.dll": {}
+        }
+      },
+      "ClassLibraryTiempos/1.0.0": {
+        "runtime": {
+          "ClassLibraryTiempos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryTiempos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\bin\Debug\net6.0\ClassLibraryTiempos.deps.json
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\bin\Debug\net6.0\ClassLibraryTiempos.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\bin\Debug\net6.0\ClassLibraryTiempos.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ClassLibraryTiempos.csproj.AssemblyReference.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ClassLibraryTiempos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ClassLibraryTiempos.AssemblyInfoInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ClassLibraryTiempos.AssemblyInfo.cs
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ClassLibraryTiempos.csproj.CoreCompileInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ClassLibraryTiempos.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\refint\ClassLibraryTiempos.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ClassLibraryTiempos.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\ClassLibraryTiempos\obj\Debug\net6.0\ref\ClassLibraryTiempos.dll

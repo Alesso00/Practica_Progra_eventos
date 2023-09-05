@@ -1,0 +1,20 @@
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.csproj.AssemblyReference.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica_4.Practica.resources
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.csproj.GenerateResource.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.AssemblyInfoInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.AssemblyInfo.cs
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.csproj.CoreCompileInputs.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\bin\Debug\net6.0-windows\Practica 4.exe
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\bin\Debug\net6.0-windows\Practica 4.deps.json
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\bin\Debug\net6.0-windows\Practica 4.runtimeconfig.json
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\bin\Debug\net6.0-windows\Practica 4.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\bin\Debug\net6.0-windows\Practica 4.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\bin\Debug\net6.0-windows\ClassLibraryTiempos.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\bin\Debug\net6.0-windows\ClassLibraryTiempos.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.csproj.CopyComplete
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\refint\Practica 4.dll
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.pdb
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\Practica 4.genruntimeconfig.cache
+D:\Ciclo_II_2023\UNIVO\Progra eventos\Practica\Practica 4\Practica 4\obj\Debug\net6.0-windows\ref\Practica 4.dll
